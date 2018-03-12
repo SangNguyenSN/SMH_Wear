@@ -42,7 +42,7 @@
     <string name="action_listen">Listen</string>
     <string name="open_content_drawer">Open the main menu</string>
     <string name="close_content_drawer">Close the main menu</string>
-    <string name="placeholder_message">This is a placeholder for your application code.</string>
+    <string name="placeholder_message">This is the health section for the user</string>
     <string name="drawer_allmusic_title">Music Library</string>
     <string name="drawer_playlists_title">User Health</string>
     <string name="now_playing">Now Playing</string>
